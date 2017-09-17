@@ -1,3 +1,4 @@
+rj checking branch and it is successful
 struct personal
 {
     char name[20];
@@ -15,3 +16,4 @@ void main()
     printf("%s %d %s %d %f\n", person.name,person.day,person.month,person.year,person.salary);
     getch();
 }
+done
